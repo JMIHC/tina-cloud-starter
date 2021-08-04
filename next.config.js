@@ -5,8 +5,7 @@ module.exports = withSvgr({
     return [
       {
         source: "/",
-        destination: "/home",
-        target: "serverless",
+        destination: "/home"
       },
     ];
   },
